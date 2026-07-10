@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on  web dev and data structures and algorithms<br><br>🌱 I’m currently learning about AI technologies <br>
+🔭 I’m currently working on  web dev and data structures and algorithms<br><br>🌱 I’m currently learning about AI technologies <br><br>
+Find my repo's below 👇
 
 
 ## 🌐 Socials:
