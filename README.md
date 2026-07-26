@@ -69,7 +69,7 @@ A full-stack travel marketplace inspired by Airbnb.
 - ⭐ Reviews & Ratings
 
 <p>
-<a href="https://your-travelnest.vercel.app">
+<a href="https://travel-nest-2kys.vercel.app/listings">
 <img src="https://img.shields.io/badge/🌐_Live_Demo-3B82F6?style=for-the-badge"/>
 </a>
 
@@ -97,7 +97,7 @@ A fast and modern URL shortener.
 - ⚡ Fast Redirects
 
 <p>
-<a href="https://your-tinycut.vercel.app">
+<a href="https://tiny-cut-three.vercel.app/">
 <img src="https://img.shields.io/badge/🌐_Live_Demo-3B82F6?style=for-the-badge"/>
 </a>
 
