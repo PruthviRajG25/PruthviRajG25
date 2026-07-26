@@ -45,31 +45,86 @@ Software Engineering student passionate about building scalable web applications
 <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma,vite,bootstrap"/>
 
 </p>
-
----
+<hr>
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🌍 TravelNest
-A full-stack travel marketplace built with the MERN ecosystem.
 
-**Tech:** Node.js • Express.js • MongoDB • Cloudinary • Bootstrap
+A full-stack travel marketplace inspired by Airbnb.
 
----
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `Cloudinary`
+
+**Features**
+
+- 🔐 Authentication
+- 🗺️ Interactive Maps
+- ☁️ Image Uploads
+- ⭐ Reviews & Ratings
+
+<p>
+<a href="https://your-travelnest.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-3B82F6?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/PruthviRajG25/travelnest">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
 
 ### 🔗 TinyCut
-A URL shortener with analytics and secure redirection.
 
-**Tech:** Node.js • Express.js • MongoDB
+A fast and modern URL shortener.
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB`
+
+**Features**
+
+- 🔗 URL Shortening
+- 📊 Analytics
+- ⚡ Fast Redirects
+
+<p>
+<a href="https://your-tinycut.vercel.app">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-3B82F6?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/PruthviRajG25/tinycut">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🎬 Multimedia Hall Management
-Reservation and scheduling system with Java and SQL.
+### 🎬 Multimedia Hall Management System
 
-**Tech:** Java • SQL
+Java & SQL based reservation and scheduling application.
 
----
+**Tech:** `Java` `SQL`
+<hr>
+
+<p>
+<a href="https://github.com/PruthviRajG25/multimedia-hall-management">
+<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
 
 ## 📊 GitHub Stats
 
