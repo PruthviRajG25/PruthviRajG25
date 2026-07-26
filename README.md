@@ -3,7 +3,7 @@
 
 # Hi 👋, I'm Pruthvi Raj G
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full+Stack+Developer;DSA+Enthusiast;Learning+AI+%26+Machine+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Artifical+Data +Science +Engineering+Student;Full+Stack+Developer;DSA+Enthusiast;Learning+AI+%26+Machine+Learning" />
 
 Software Engineering student passionate about building scalable web applications and solving real-world problems through code.
 
