@@ -31,7 +31,7 @@ Software Engineering student passionate about building scalable web applications
 - 📍 Bengaluru, India
 - 💻 Passionate about Full Stack Development
 - 📚 Solved **150+ DSA** problems
-- 🤖 Currently learning **Artificial Intelligence & Machine Learning**
+- 🤖 Currently learning **Artificial Intelligence & Data Science**
 - 🌱 Exploring scalable backend systems and modern web technologies
 
 ---
