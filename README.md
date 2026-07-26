@@ -95,15 +95,7 @@ Reservation and scheduling system with Java and SQL.
 
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PruthviRajG25&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
 
 ---
 
