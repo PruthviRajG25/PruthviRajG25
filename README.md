@@ -231,12 +231,7 @@ A Java and SQL-based application for managing multimedia hall reservations and s
   />
 </a>
 
-<a href="https://github.com/PruthviRajG25?tab=projects">
-  <img
-    src="https://img.shields.io/badge/🚀%20View%20My%20Projects-181717?style=for-the-badge"
-    alt="View projects"
-  />
-</a>
+
 
 </p>
 
