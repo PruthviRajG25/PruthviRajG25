@@ -251,7 +251,7 @@ A Java and SQL-based application for managing multimedia hall reservations and s
 - 🧩 Data Structures & Algorithms
 
 ---
-
+```text
 ## 📚 Current Learning Goals
 
 
@@ -261,7 +261,7 @@ React                      ████████████████░�
 Backend Architecture       ███████████████░░░░░░  Exploring
 AI & Machine Learning      ████████████░░░░░░░░░  Learning
 Cloud Computing            ██████████░░░░░░░░░░░  Exploring
-
+```
 <div align="center">
 
 ### 🙏 Thank You for Visiting My Profile!
