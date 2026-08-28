@@ -254,10 +254,30 @@ A Java and SQL-based application for managing multimedia hall reservations and s
 
 ## 📚 Current Learning Goals
 
-```text
+
 Full Stack Development    ████████████████████░  Learning & Building
 Java & DSA                 ███████████████████░░  Practicing
 React                      ████████████████░░░░░  Improving
 Backend Architecture       ███████████████░░░░░░  Exploring
 AI & Machine Learning      ████████████░░░░░░░░░  Learning
 Cloud Computing            ██████████░░░░░░░░░░░  Exploring
+
+<div align="center">
+
+### 🙏 Thank You for Visiting My Profile!
+
+**Thank you for taking the time to explore my profile and projects.  
+I truly appreciate your visit and support! ❤️**
+
+⭐ If you find any of my projects interesting, feel free to star the repository!
+
+💬 I'm always open to connecting, learning, collaborating, and building something amazing together. 🚀
+
+<br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"
+  alt="Footer"
+/>
+
+</div>
