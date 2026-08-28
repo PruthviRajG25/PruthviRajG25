@@ -1,27 +1,30 @@
-
 <div align="center">
 
-# Hi 👋, I'm Pruthvi Raj G
+# 👋 Hi, I'm Pruthvi Raj G
+
+### Software Engineering Student | Full Stack Developer | Java & DSA Enthusiast
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=%F0%9F%91%8B+Hi%2C+I'm+Pruthvi+Raj;Full+Stack+Web+Developer;Java+Developer+%7C+DSA+Enthusiast;Learning+AI+%26+Machine+Learning;Always+Building+Cool+Things+%F0%9F%9A%80"
-  alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=900&color=00F5FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Java+Developer+%7C+DSA+Enthusiast;Learning+AI+%26+Machine+Learning;Building+Real-World+Projects;Always+Learning+%26+Building+%F0%9F%9A%80"
+alt="Typing animation"
 />
-Software Engineering student passionate about building scalable web applications and solving real-world problems through code.
 
 <p>
   <a href="mailto:pruthvi250906@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/pruthvi-raj-g-718380340/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/PruthviRajG25">
-    <img src="https://img.shields.io/github/followers/PruthviRajG25?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=PruthviRajG25&style=flat-square&color=3B82F6"/>
+<img
+src="https://komarev.com/ghpvc/?username=PruthviRajG25&label=Profile%20Views&color=3B82F6&style=flat-square"
+alt="Profile views"
+/>
 
 </div>
 
@@ -29,29 +32,50 @@ Software Engineering student passionate about building scalable web applications
 
 ## 👨‍💻 About Me
 
-- 🎓 B.E. Artificial Intelligence & Data Science
-- 📍 Bengaluru, India
-- 💻 Passionate about Full Stack Development
-- 📚 Solved **150+ DSA** problems
-- 🤖 Currently learning **Artificial Intelligence & Data Science**
-- 🌱 Exploring scalable backend systems and modern web technologies
+* 🎓 B.E. in **Artificial Intelligence & Data Science**
+* 📍 Bengaluru, India
+* 💻 Passionate about **Full Stack Development**
+* 🧩 Solved **150+ DSA problems**
+* ☕ Building applications with **Java, JavaScript, Node.js & React**
+* 🤖 Currently learning **AI, Machine Learning & Data Science**
+* 🌱 Exploring **backend architecture, APIs and cloud technologies**
+* 🚀 Interested in building scalable applications that solve real-world problems
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,figma,vite,bootstrap"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Java Python C JavaScript"/>
 </p>
-<hr>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap" alt="HTML CSS React Vite Bootstrap"/>
+</p>
+
+### ⚙️ Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js Express MongoDB MySQL"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Git GitHub VS Code Postman Figma"/>
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌍 TravelNest
 
@@ -63,28 +87,28 @@ A full-stack travel marketplace inspired by Airbnb.
 
 **Features**
 
-- 🔐 Authentication
-- 🗺️ Interactive Maps
-- ☁️ Image Uploads
-- ⭐ Reviews & Ratings
+* 🔐 User authentication
+* 🗺️ Interactive maps
+* ☁️ Cloud image uploads
+* ⭐ Reviews and ratings
+* 🏠 Listing management
 
 <p>
-<a href="https://travel-nest-2kys.vercel.app/listings">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-3B82F6?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/PruthviRajG25/travelnest">
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://travel-nest-2kys.vercel.app/listings">
+    <img src="https://img.shields.io/badge/Live%20Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="TravelNest Live Demo"/>
+  </a>
+  <a href="https://github.com/PruthviRajG25/travelnest">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TravelNest Source Code"/>
+  </a>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🔗 TinyCut
 
-A fast and modern URL shortener.
+A lightweight URL-shortening application with analytics.
 
 **Tech Stack**
 
@@ -92,93 +116,116 @@ A fast and modern URL shortener.
 
 **Features**
 
-- 🔗 URL Shortening
-- 📊 Analytics
-- ⚡ Fast Redirects
+* 🔗 URL shortening
+* 📊 Link analytics
+* ⚡ Fast redirects
+* 🗄️ MongoDB persistence
 
 <p>
-<a href="https://tiny-cut-three.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-3B82F6?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/PruthviRajG25/tinycut">
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://tiny-cut-three.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-3B82F6?style=for-the-badge&logo=vercel&logoColor=white" alt="TinyCut Live Demo"/>
+  </a>
+  <a href="https://github.com/PruthviRajG25/tinycut">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TinyCut Source Code"/>
+  </a>
 </p>
 
 </td>
 </tr>
 </table>
 
----
-
 ### 🎬 Multimedia Hall Management System
 
-Java & SQL based reservation and scheduling application.
+A Java and SQL-based application for managing multimedia hall reservations and scheduling.
 
-**Tech:** `Java` `SQL`
-<hr>
+**Tech Stack**
+
+`Java` `SQL`
+
+**Highlights**
+
+* 📅 Reservation management
+* 🏛️ Hall scheduling
+* 🗃️ Database-driven application
+* ⚙️ Java-based backend logic
 
 <p>
-<a href="https://github.com/PruthviRajG25/multimedia-hall-management">
-<img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PruthviRajG25&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviRajG25&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PruthviRajG25&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://github.com/PruthviRajG25/multimedia-hall-management">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Multimedia Hall Management Source Code"/>
+  </a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PruthviRajG25&theme=tokyo-night&hide_border=true"/>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=PruthviRajG25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+alt="Pruthvi's GitHub statistics"
+/>
 
-</p>
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=PruthviRajG25&layout=compact&theme=tokyonight&hide_border=true"
+alt="Pruthvi's most used languages"
+/>
 
-
+</div>
 
 ---
 
-## 🎯 Currently expoloring
+## 📈 Contribution Activity
 
-- ⚛️ Advanced React
-- 🌐 Backend Architecture
-- ☁️ Cloud Computing
-- 🤖 AI & Machine Learning
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=PruthviRajG25&theme=tokyo-night&hide_border=true&area=true"
+alt="GitHub contribution activity graph"
+/>
+
+</div>
+
+---
+
+## 🎯 Currently Exploring
+
+* ⚛️ Advanced React & modern frontend development
+* 🌐 Backend architecture & REST APIs
+* ☁️ Cloud computing & deployment
+* 🤖 Artificial Intelligence & Machine Learning
+* 🧠 Data Structures & Algorithms
+* 🏗️ Scalable software architecture
+
+---
+
+## 📚 What I'm Working On
+
+```text
+Full Stack Development  ████████████████████░  Learning & Building
+Java & DSA               ███████████████████░░  Practicing
+React                    ████████████████░░░░░  Improving
+Backend Architecture     ███████████████░░░░░░  Exploring
+AI & Machine Learning    ████████████░░░░░░░░░  Learning
+Cloud Computing          ██████████░░░░░░░░░░░  Exploring
+```
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="mailto:pruthvi250906@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/pruthvi-raj-g-718380340/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/PruthviRajG25">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<p>
+  <a href="mailto:pruthvi250906@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pruthvi-raj-g-718380340/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/PruthviRajG25">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
@@ -187,7 +234,9 @@ Java & SQL based reservation and scheduling application.
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer"
+alt="Footer"
+/>
 
 </div>
-```
