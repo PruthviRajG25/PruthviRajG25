@@ -63,7 +63,7 @@
   />
 </p>
 
-### 🌐 Frontend Development (dev)
+### 🌐 Frontend Development 
 
 <p>
   <img
